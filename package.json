@@ -1,1 +1,8 @@
-{ "name": "hanzmovie", "version": "1.0.0", "private": true, "type": "module", "engines": { "node": ">=20" } }
+{
+  "name": "muvie",
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "scrape": "node movie.js"
+  }
+}
